@@ -1,2 +1,2 @@
-# my-first-html-repo
+# Some HTML shenanigans
 My repo of HTML lessons
